@@ -7,12 +7,12 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I will be working on: <b>Machine Translation with LSTM</b>
+- 🔭 I will be working on: <b>Shipment Price Prediction End to End Project</b>
 - 🌱 I’m currently learning: <b>MLOps</b>
 - 💬 Ask me about: Feel free to ask anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suraj-yadav-aiml/)
 - 📄 Know about my experiences: [Resume]()
-- 📝 Current Goal: Complete Complete MLOps and Machine Learning Projects.
+- 📝 Current Goal: Complete MLOps Projects.
 
 ## 🚀 Languages and Tools:
 
