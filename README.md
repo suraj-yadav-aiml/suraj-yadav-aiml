@@ -7,7 +7,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I will be working on: <b>Shipment Price Prediction End to End Project</b>
+- 🔭 I will be working on: <b>Chest Disease Prediction using CT Scans End to End Project</b>
 - 🌱 I’m currently learning: <b>MLOps</b>
 - 💬 Ask me about: Feel free to ask anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suraj-yadav-aiml/)
