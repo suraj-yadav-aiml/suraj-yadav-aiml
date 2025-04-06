@@ -11,7 +11,7 @@
 - 💬 Ask me about: Feel free to ask anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suraj-yadav-aiml/)
 - 📄 Know about my experiences: [Resume]()
-- 📝 Current Goal: Complete MLOps Projects.
+- 📝 Current Goal: Craete Projects on GenerativeAI and MLOPs
 
 ## 🚀 Languages and Tools:
 
