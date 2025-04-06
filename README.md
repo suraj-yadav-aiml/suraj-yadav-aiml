@@ -7,8 +7,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I will be working on: <b>Chest Disease Prediction using CT Scans End to End Project</b>
-- 🌱 I’m currently learning: <b>MLOps</b>
+- 🌱 I’m currently learning: <b>MLOps and GenerativeAI</b>
 - 💬 Ask me about: Feel free to ask anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suraj-yadav-aiml/)
 - 📄 Know about my experiences: [Resume]()
